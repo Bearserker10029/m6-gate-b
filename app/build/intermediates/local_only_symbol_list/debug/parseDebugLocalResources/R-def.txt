@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+array shapes
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+id button
+id linearLayout5
+id outputET
+id spinner
+layout activity_main
+mipmap ic_launcher
+string app_name
+style AppTheme
